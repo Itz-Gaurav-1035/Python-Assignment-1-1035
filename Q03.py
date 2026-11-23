@@ -1,0 +1,1 @@
+print("Line 1: Welcome to Python\nLine 2: Assignment 1\nLine 3: Programming for Problem Solving")
